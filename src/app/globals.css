@@ -170,6 +170,6 @@
   --color-danger-500: #df1c41;
   --color-danger-600: #841127;
 
-  -color-accent-100: #f0f9ff;
-  --color-accent-200: #e0f2fe;
+  --text-xs : 0.75rem;
+  --text-sm : 0.875rem;
 }
