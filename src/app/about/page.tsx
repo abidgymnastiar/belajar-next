@@ -24,8 +24,8 @@ export default function about() {
             </div>
             <div className="clients flex flex-col gap-[32px]">
               <p className="text-xlarge text-grayscale-600">Trusted by companies around the world</p>
-              <div>
-                
+              <div className="flex flex-row gap-[64px]">
+                  
               </div>
             </div>
         </div>
