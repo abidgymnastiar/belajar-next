@@ -119,6 +119,20 @@
   body {
     @apply bg-background text-foreground;
   }
+  .typography {
+    h1 {
+      @apply text-[56px] leading-[120%] font-semibold;
+    }
+    h2 {
+      @apply text-[48px] leading-[120%] font-semibold;
+    }
+    h3 {
+      @apply text-[40px] leading-[120%] font-semibold;
+    }
+    h4 {
+      @apply text-[32px] leading-[120%] font-semibold;
+    }
+  }
 }
 
 @theme {
@@ -141,6 +155,7 @@
   --color-grayscale-700: #364153;
   --color-grayscale-800: #20293a;
   --color-grayscale-900: #111729;
+  --color-grayscale-950: #0e121b;
 
   --color-success-100: #def5ed;
   --color-success-200: #c6eee1;
@@ -170,6 +185,4 @@
   --color-danger-500: #df1c41;
   --color-danger-600: #841127;
 
-  --text-xs : 0.75rem;
-  --text-sm : 0.875rem;
 }
