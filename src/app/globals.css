@@ -185,4 +185,15 @@
   --color-danger-500: #df1c41;
   --color-danger-600: #841127;
 
+  --text-small: 12px;
+  --text-small--line-height: 150%;
+
+  --text-medium: 14px;
+  --text-medium--line-height: 150%;
+
+  --text-large: 16px;
+  --text-large--line-height: 150%;
+
+  --text-xlarge: 18px;
+  --text-xlarge--line-height: 150%;
 }
