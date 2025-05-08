@@ -169,4 +169,7 @@
   --color-danger-400: #F54B6B;
   --color-danger-500: #DF1C41;
   --color-danger-600: #841127;
+
+  --text-xs: 0.75rem;
+  --text-xs--line-height: calc(1 / 0.75);
 }
