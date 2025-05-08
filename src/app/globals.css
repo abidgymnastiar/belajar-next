@@ -170,6 +170,11 @@
   --color-danger-500: #df1c41;
   --color-danger-600: #841127;
 
-  --text-xs : 0.75rem;
-  --text-sm : 0.875rem;
+<<<<<<<<< Temporary merge branch 1
+  --text-xs: 0.75rem;
+  --text-xs--line-height: calc(1 / 0.75);
+=========
+--animate-duration-100: 100ms;
+  --color-gray-100: #f8f9fa;
+>>>>>>>>> Temporary merge branch 2
 }
