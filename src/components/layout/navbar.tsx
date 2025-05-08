@@ -3,7 +3,7 @@ import { Button } from "../ui/button";
 
 export default function Navbar() {
   return (
-    <nav className="py-6 fixed top-0 w-full">
+    <nav className="py-6 absolute top-0 w-full">
       <div className="w-full max-w-[1072px] mx-auto ">
         <div className="flex items-center justify-between gap-10">
           <div>
