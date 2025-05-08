@@ -169,4 +169,7 @@
   --color-danger-400: #f54b6b;
   --color-danger-500: #df1c41;
   --color-danger-600: #841127;
+
+--animate-duration-100: 100ms;
+  --color-gray-100: #f8f9fa;
 }
