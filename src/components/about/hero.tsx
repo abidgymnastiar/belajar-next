@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function AboutHero() {
   return (
-    <div className="hero-section pt-[152px] pb-[96px] px-[56px] flex flex-col bg-grayscale-50    items-center">
+    <div className="hero-section pt-[152px] pb-[96px] px-[56px] flex flex-col bg-grayscale-50 items-center">
         <div className="container max-w-[1072px] flex flex-col gap-[64px] items-center justify-center">
             <div className="header flex flex-col gap-[16px] items-center">
                 <div className="typography text-grayscale-950">

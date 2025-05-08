@@ -130,7 +130,7 @@
       @apply text-[40px] leading-[120%] font-semibold;
     }
     h4 {
-      @apply text-[32px] leading-[120%] font-semibold;
+      @apply text-[24px] leading-[120%] font-semibold;
     }
   }
 }
@@ -151,7 +151,7 @@
   --color-grayscale-300: #cdd5e0;
   --color-grayscale-400: #97a3b6;
   --color-grayscale-500: #677489;
-  --color-grayscale-600: #4a5567;
+  --color-grayscale-600: #525866;
   --color-grayscale-700: #364153;
   --color-grayscale-800: #20293a;
   --color-grayscale-900: #111729;
